@@ -1,3 +1,3 @@
-module github.com/project/modulePrivate
+module github.com/Emmanooel/modulePrivateCerc
 
 go 1.18
